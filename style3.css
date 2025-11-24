@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(purple, violet);
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+p{
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333333;
+    background-color: #f9f9f9;
+    border: solid 1px #dddddd;
+    border-radius: 10px;
+    border-width: 3px;
+    padding: 15px;
+    margin-left: 60px;
+    margin-right: 60px;
+    
+}
+
+.paragraph{
+    text-align: center;
+    text-justify: inter-word;
+    margin-bottom: 20px;
+}
