@@ -50,6 +50,10 @@ p{
 :hover.button{
     background-color: grey;
 }
+:hover.paragraph{
+    background-color: grey;
+}
+
 a{
     text-decoration: none;
     font-size: 25;
