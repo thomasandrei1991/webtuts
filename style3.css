@@ -25,4 +25,7 @@ p{
     text-align: center;
     text-justify: inter-word;
     margin-bottom: 20px;
+    background-color: darkgray;
+    font-size: 25;
+    color: white;
 }
